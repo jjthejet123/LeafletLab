@@ -1,0 +1,290 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Country",
+    "B":1990,
+    "C":1995,
+    "D":2000,
+    "E":2005,
+    "F":2010,
+    "G":2015,
+    "H":2019,
+    "I":"Latitude",
+    "J":"Longitude"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"USA",
+    "B":266.28,
+    "C":279.04,
+    "D":290.11,
+    "E":301.23,
+    "F":311.64,
+    "G":321.04,
+    "H":330,
+    "I":"38.7586",
+    "J":"-98.0759"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"UK",
+    "B":57.9,
+    "C":58,
+    "D":59,
+    "E":60,
+    "F":63,
+    "G":65.5,
+    "H":66.8,
+    "I":"52.5788",
+    "J":"-1.4835"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Germany",
+    "B":79.1,
+    "C":81.2,
+    "D":81.4,
+    "E":81.6,
+    "F":80.8,
+    "G":81.7,
+    "H":82.4,
+    "I":"51.0642",
+    "J":"9.927"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Poland",
+    "B":37.9,
+    "C":38.4,
+    "D":38.5,
+    "E":38.3,
+    "F":38.3,
+    "G":38.2,
+    "H":38,
+    "I":"51.9194",
+    "J":"19.1451"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Russia",
+    "B":147.5,
+    "C":148.2,
+    "D":146.3,
+    "E":143.6,
+    "F":143.1,
+    "G":143.8,
+    "H":143.8,
+    "I":"61.9962",
+    "J":"75.6874"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"France",
+    "B":56.9,
+    "C":58.2,
+    "D":59.6,
+    "E":61.2,
+    "F":63,
+    "G":64.45,
+    "H":65.4,
+    "I":"46.7358",
+    "J":"2.6598"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Canada",
+    "B":27.7,
+    "C":29.3,
+    "D":30.7,
+    "E":32.2,
+    "F":34.1,
+    "G":36,
+    "H":37.2,
+    "I":"56.1304",
+    "J":"-106.3468"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Italy",
+    "B":57.1,
+    "C":57.2,
+    "D":57.2,
+    "E":58.8,
+    "F":59.7,
+    "G":59.5,
+    "H":59.2,
+    "I":"41.8719",
+    "J":"12.5674"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Japan",
+    "B":124.6,
+    "C":126.4,
+    "D":127.5,
+    "E":128.3,
+    "F":128.5,
+    "G":127.9,
+    "H":126.8,
+    "I":"36.2048",
+    "J":"138.2529"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"China",
+    "B":1172,
+    "C":1239,
+    "D":1283,
+    "E":1322,
+    "F":1360,
+    "G":1397,
+    "H":1420,
+    "I":"34.5925",
+    "J":"103.7905"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Australia",
+    "B":17,
+    "C":18,
+    "D":19,
+    "E":20.2,
+    "F":22.1,
+    "G":23.8,
+    "H":25,
+    "I":"-25.2744",
+    "J":"133.7751"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"India",
+    "B":870.1,
+    "C":960.4,
+    "D":1053,
+    "E":1144,
+    "F":1230,
+    "G":1309,
+    "H":1368,
+    "I":"22.7515",
+    "J":"79.2198"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Brazil ",
+    "B":149.3,
+    "C":162.3,
+    "D":175.2,
+    "E":187,
+    "F":196.8,
+    "G":205,
+    "H":212,
+    "I":"-14.235",
+    "J":"-51.9253"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"RSA",
+    "B":37.5,
+    "C":42.1,
+    "D":45.7,
+    "E":48.8,
+    "F":51.5,
+    "G":55.2,
+    "H":58,
+    "I":"30.5595",
+    "J":"22.9375"
+    }
+  }
+]
+}
